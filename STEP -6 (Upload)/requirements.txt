@@ -1,0 +1,11 @@
+﻿streamlit
+scikit-learn
+pandas
+plotly
+WordCloud
+matplotlib
+seaborn
+numpy
+category_encoders
+xgboost
+scikit-optimize
